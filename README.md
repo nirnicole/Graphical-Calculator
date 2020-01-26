@@ -14,3 +14,6 @@ it's not finished so I have not yet to code review it,
 there's still some missing documentation, utilization, and I need to change the GUI model to MVC.
 
 enjoy!
+
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
