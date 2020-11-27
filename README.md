@@ -15,4 +15,4 @@ there's still some missing documentation, utilization, and I need to change the 
 
 enjoy!
 
-![alt text](https://github.com/nirnicole/Graphical_Calculator/blob/master/graphc%20calac.png?raw=true)
+![alt text](graphc%20calac)
